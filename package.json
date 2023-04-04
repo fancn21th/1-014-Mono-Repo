@@ -16,7 +16,7 @@
     "test": "scripty"
   },
   "scripty": {
-    "path": "./scripts/workspaces"
+    "path": "./scripts/workspace"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5.57.1",
